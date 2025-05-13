@@ -1,1 +1,1 @@
-
+First of all, I loaded the data set and looked at the information and statistics of the columns in the data set. Since the data set was clean, I decided that there was no missing data or outlier data. my goal was to calculate the RFM scores of each customer in the relevant data set and group them within themselves. In this way, I was able to see when each customer last shopped, how many times they shopped and how much money they spent in total. As I said, since this study is a simple analysis, I did not use any machine learning models on it.
